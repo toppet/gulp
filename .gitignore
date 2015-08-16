@@ -1,0 +1,16 @@
+*.7z
+*.dmg
+*.iso
+*.jar
+*.tar
+*.zip
+
+*.log
+*.sql
+*.sqlite
+
+node_modules/
+bower_components/
+.sass-cache
+build/
+dist/
